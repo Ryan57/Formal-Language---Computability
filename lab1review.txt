@@ -1,0 +1,16 @@
+10 pts
+
+Both essays respond and address the question correctly. Good job!
+
+It seems like you did not even check the PDF before submitting it, there is a
+line `as' in the middle of the DFA drawing. What is up with that?
+
+Why doesn't your .pdf have your name?
+
+The DFA looks ok, except for the above.
+
+You could use $\Sigma$ more to save some space. Lets say that you want to make
+an arrow if the next symbol is not an 'f', you could simply say $\{\Sigma - f\}$,
+which means the set of all possible symbols of the whole alphabet minus 'f'.
+
+- Dr. Rivas
