@@ -1,0 +1,37 @@
+90 pts
+
+Neat DFA diagram in a .pdf
+- ok
+State-transition table
+- ok
+Descriptions of each state
+- ok
+5 test cases accepted by the DFA
+- not as text files
+5 test cases rejected by the DFA 
+- not as text files
+
+Analysis
+- Good quality of DFA diagram
+- Good state descriptions
+- Good and efficient construction of the DFA
+
+Completeness 
+- Test cases are difficult and interesting
+- Includes both correct and incorrect statements
+- Includes both correct and incorrect asignments
+- Includes both correct and incorrect identifiers
+
+Correctness
+- DFA diagram is incorrect:
+  > some states do not consider the possibility of receiving all possible
+    symbols in the alphabet; e.g., you are at an accepting state, and still all
+    possible \Sigma symbols can occur: || print ( a ) var p || should be
+    accepted
+- Tables are correct
+- Test cases are incorrect:
+  > your alphabet does not support capital letters, not even in comments!
+
+
+
+- Dr. Rivas
