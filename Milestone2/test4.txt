@@ -1,0 +1,7 @@
+var a 
+a = " hello " 
+var b
+b = 5
+print( a )
+print( " there " )  
+*- commented text -*
